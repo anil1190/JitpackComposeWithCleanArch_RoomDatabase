@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComposeWithCleanArch</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="name_too_short">Name too short</string>
+    <string name="password_too_short">Password too short</string>
+    <string name="empId_too_short">Emp Id to short</string>
+    <string name="success">Success</string>
+    <string name="validation_error">Validation error</string>
+    <string name="wrong_user">Please enter correct user</string>
+    <string name="name">NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="emp_id">EMP_ID</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+</resources>
